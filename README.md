@@ -1,5 +1,5 @@
 ## Learning DevOps 
 
-# Checking 
+1. Checked docker file
 
-# Testing The CI Pipeline 
+2. Creted React-Docker file
